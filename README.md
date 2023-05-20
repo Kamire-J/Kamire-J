@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* I am a self trained Software Developer who is adept at Backend and Frontend Development. 
+* I am a trained Data Scientist who is good with SQL, Python, Machine Learning and Deep Learning
+* I can deliver end to end machine learning projects starting from data preparation to model deployment.
+* 💬 Ask me about statistics, data science and software development.
+* 📫 How to reach me: send an inbox or email at **jacmire@gmail.com**
+* ⚡ Fun fact: "Brain is ever changing and growing, learning is a continous process"
