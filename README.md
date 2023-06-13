@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - [Email] (jacmire@gmail.com)
 ## ⚒️ What I can do
 - I am a trained Data Scientist who is good with SQL, Python, Machine Learning and Deep Learning
-- I am also a software development and my tech stack include Django, HTML5, CSS, Javascript, Flask, Fastapi
+- I a software developer. My tech stack is Django, HTML5, CSS, Javascript, Flask, Fastapi
 - Databases include Postgresql, MongoDB, and Mysql databae.
 - I can deliver end to end machine learning projects starting from data preparation to model deployment.
