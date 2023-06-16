@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data projects
 - 🌱 I’m currently learning cybersecurity
-- 👯 I’m looking to collaborate on data science and software development content creation
+- 👯 I’m looking to collaborate on data science and software development.
 - 💬 Ask me about getting started in Data Science
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
