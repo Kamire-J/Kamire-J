@@ -26,3 +26,7 @@ I am a Data Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :zap: In my free time, I read fictional stories and play games.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kamire-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jack-kamire/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
