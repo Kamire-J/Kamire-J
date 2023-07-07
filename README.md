@@ -9,7 +9,8 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Kamire-J&style=flat-square&color=blue" alt=""/> 
-  Hi there I'm Kamire
+  
+  <h1>Hi there I'm Kamire</h1>
 </div> 
 
 
