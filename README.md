@@ -11,10 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=Kamire-J&style=flat-square&color=blue" alt=""/> 
   
   <h1>Hi there I'm Kamire</h1>
-</div> 
-<div align="center">
-  <img src="https://media.giphy.com/media/cnzou4ydGM7GJZ7VTz/giphy.gif" width="600" height="300"/>
-</div>
 
 --- 
 ### 👨‍💻: About Me:
