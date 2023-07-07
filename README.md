@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=Kamire-J&style=flat-square&color=blue" alt=""/> 
   
   <h1>
-    Hi there I'm Kamire, and I enjoy manipulating data.
+    Hello, I'm Kamire, a Data Professional.
   </h1>
 </div>
 <div align="center">
