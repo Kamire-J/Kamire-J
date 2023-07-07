@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" />
+  <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" />
   <div id="badges">
     <a href="https://www.linkedin.com/in/jack-kamire/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
