@@ -17,4 +17,5 @@
 </div>
 
 --- 
-### 👨‍💻: About Me:I am a Data Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+### 👨‍💻: About Me:
+I am a Data Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
