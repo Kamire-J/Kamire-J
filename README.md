@@ -15,6 +15,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/cnzou4ydGM7GJZ7VTz/giphy.gif" width="600" height="300"/>
 </div>
+---
+
 
 
 ### Hi there I'm Kamire 🙋‍♀️👋🏿
