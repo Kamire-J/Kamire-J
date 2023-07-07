@@ -58,3 +58,6 @@ I am a Data Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Activity :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kamire-J%20&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamire-J&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
