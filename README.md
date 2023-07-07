@@ -16,6 +16,8 @@
   </h1>
 
 --- 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F6YXN1enRpOGtveXh2MDRna3RkOTVncnZpbGpqam5jY2NoY2ZndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif
+
 ---
 
 ### 👨‍💻: About Me:
