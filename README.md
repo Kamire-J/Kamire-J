@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif" heigth="200"/>
+  <h1>Data is not a project, it is a strategy</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/jack-kamire/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=Kamire-J&style=flat-square&color=blue" alt=""/> 
   
   <h1>
-    Hello, I'm Kamire, a Data Professional.
+    👋 Hello 😄
   </h1>
 </div>
 <div align="center">
