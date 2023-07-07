@@ -19,3 +19,10 @@
 --- 
 ### 👨‍💻: About Me:
 I am a Data Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+- :telescope: I’m working as a Data Analyst and handling Backend Software Development tasks for company and personal projects.
+
+- :seedling: Exploring Database and System Administration
+
+- :zap: In my free time, I read fictional stories and play games.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jack-kamire/)
