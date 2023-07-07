@@ -10,9 +10,13 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Kamire-J&style=flat-square&color=blue" alt=""/> 
   
-  <h1>Hi there I'm Kamire</h1>
+  <h1>
+    Hi there I'm Kamire
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 
 --- 
+---
 
 ### 👨‍💻: About Me:
 I am a Data Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
