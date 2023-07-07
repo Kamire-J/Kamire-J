@@ -1,14 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" />
   <div id="badges">
-  <a href="https://www.linkedin.com/in/jack-kamire/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/jac_curious">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-</div>
+    <a href="https://www.linkedin.com/in/jack-kamire/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/jac_curious">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div> 
+<img src="https://komarev.com/ghpvc/?username=Kamire-J&style=flat-square&color=blue" alt=""/>
 
 
 ### Hi there I'm Kamire 🙋‍♀️👋🏿
