@@ -19,9 +19,7 @@
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F6YXN1enRpOGtveXh2MDRna3RkOTVncnZpbGpqam5jY2NoY2ZndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
 </div>
 
-
 ---
-
 
 ### 👨‍💻: About Me:
 I am a Data Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
@@ -36,7 +34,7 @@ I am a Data Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django"  alt="django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask"  alt="flask" width="40" height="40"/>&nbsp;
