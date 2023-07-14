@@ -22,7 +22,7 @@
 
 ### 👨‍💻: About Me:
 I am a Data Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- 📊: I’m working as a Data Analyst/Software Developer.
+- 📊: I’m working as a Data Scientist.
 
 - :seedling: Exploring Database and System Administration
 
