@@ -15,7 +15,7 @@
   </h1>
 </div>
 <div align="center">
-  <h1>Data is not a project, it is a strategy</h1>
+  <h1>Short Term Gooals</h1>
 </div>
 
 ---
