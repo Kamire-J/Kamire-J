@@ -21,8 +21,8 @@
 ---
 
 ### 👨‍💻: About Me:
-I am a Data Professional <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- 📊: I’m working as a Data Scientist.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+- 📊: I’m working as Software Developer / Data Analyst
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kamire-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jack-kamire/)
 
