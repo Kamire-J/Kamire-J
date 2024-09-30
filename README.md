@@ -15,7 +15,7 @@
   </h1>
 </div>
 <div align="center">
-  <h1>Short Term Gooals</h1>
+  <h1>Short Term Goals</h1>
 </div>
 
 ---
